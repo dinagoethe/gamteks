@@ -9,3 +9,7 @@
 **Materi minggu ke-6** (29/09/2022)
 1. [Membuat Kop]()
 2. [Layer]()
+
+**Materi minggu ke-7** (06/10/2022)
+1. [Projection Symbol]()
+2. [Fin]()
