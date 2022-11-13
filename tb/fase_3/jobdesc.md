@@ -1,6 +1,10 @@
 # Deskripsi Kerja Anggota Kelompok Fase 3
+Setelah selesai membaca deskripsi di bawah ini, anggota dapat langsung mengisi pembagian tugas sesuai keinginannya masing-masing [di sini.](https://docs.google.com/spreadsheets/d/14oqL5nb135_fkNvy_8cI5Ly50nLEfsnM2zNDKuP76bM/edit?usp=sharing) Saya berhak menambahkan tugas anggota jika ternyata masih ada slot yang kosong dan tidak ada inisiatif mengisi sendiri.
+
+Mohon mengisi kendala pada kolom yang tersedia di excel (jika ada) agar masalah dapat diselesaikan bersama dan tidak terjadi kesalahpahaman antaranggota.
 
 ## Pembagian Tugas
+Untuk rekap akhir
 | Nama | NIM | Tugas |
 | ---- | --- | ----- |
 | Gilang Ramadhani | 16622152 | |
