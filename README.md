@@ -1,5 +1,10 @@
 # gamteks
 
+### Tugas Besar
+1. [Fase 1]()
+2. [Fase 2]()
+3. [Fase 3](https://github.com/dinagoethe/gamteks/blob/main/tb/fase_3/F3.md)
+
 ### Autocad
 **Materi minggu ke-5** (22/09/2022)
 1. [Pengaturan Satuan (*units*)]()
