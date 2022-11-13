@@ -14,3 +14,26 @@
 ### 2. Presentasi (PPT)
 
 ## Spesifik
+### 3D Modeling
+#### 1. Modeling denah lantai 1 dan 2
+#### 2. Penggabungan lantai
+#### 3. Mencari dan mengumpulkan library interior
+#### 4. Mencari dan mengumpulkan library interior
+#### 5. Membuat/mencari pintu dan jendela
+#### 6. Menentukan lantai dan keramik
+
+### Video Tour 
+#### 1. Render fasad
+#### 2. Render video
+#### 3. Render potongan
+
+### PPT
+#### 1. Membuat
+
+### Presentasi
+####
+
+### Video Final (Presentasi)
+#### 1. Editor video
+#### 2. Editor audio
+
