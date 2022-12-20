@@ -9,7 +9,7 @@
 [Panduan install Autocad](https://drive.google.com/file/d/181JZHNjVAt4RkMt9MGgTOha1SmCROL5J/view?usp=share_link)
 
 **Materi minggu ke-5** (22/09/2022)
-1. [Pengaturan Satuan (*units*)](https://github.com/dinagoethe/gamteks/blob/main/materi/minggu5/units.md)
+1. [Pengaturan Satuan (*units*)](https://grungree.notion.site/Units-1981e07dc88d4f0f9b91142c5628b6f1)
 2. [*Paper Space*](https://github.com/dinagoethe/gamteks/blob/main/materi/minggu5/paper_space.md)
 3. [Bingkai/Margin kertas](https://github.com/dinagoethe/gamteks/blob/main/materi/minggu5/margin.md)
 
